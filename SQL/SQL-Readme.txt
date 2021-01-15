@@ -9,3 +9,5 @@ Learning:
 Practice:
 1. https://www.hackerrank.com/domains/sql
 2. https://leetcode.com/problemset/database/ [Double Click on 'Difficulty']
+
+
