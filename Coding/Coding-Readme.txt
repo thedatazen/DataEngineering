@@ -1,2 +1,0 @@
-Coding Resources:
-Leet Code
