@@ -1,0 +1,13 @@
+Algo & Sys Design - Resources:
+
+Algo:
+1. Cracking The Coding Interview
+2. Grokking the Coding Interview: Patterns for Coding Questions
+3. Elements of Programming Interview
+4. https://leetcode.com/problemset/algorithms/ [Double Click on 'Difficulty']
+5. Code challenges - 75 LC Questions/Educative
+
+Sys Design:
+1. Grokking the System Design Interview
+2. Gaurav Sen - System Design Course
+3. Clement - System Design
