@@ -1,3 +1,5 @@
+https://github.com/shawlu95/Beyond-LeetCode-SQL/tree/master/LeetCode/185_Department_Top_Three_Salaries
+
 --1683
 Create table If Not Exists Tweets(tweet_id int, content varchar(50))
 Truncate table Tweets
